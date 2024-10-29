@@ -4,5 +4,9 @@ license = "MIT OR Apache-2.0"
 readme = "README.md"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/Thomas-Mewily/iter_peek_end"
+keywords = ["iterator", "peekable", "peek", "is_last", "is_not_last"]
+categories = ["rust-patterns", "algorithms"]
+description = "Is the current element the last one of a peekable iterator ? (`is_last()` and `is_not_last()`)"
 
 [dependencies]
